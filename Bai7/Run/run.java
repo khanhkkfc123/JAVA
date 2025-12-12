@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 import Bai7.data.Student;
-
+// chương trình nhỏ đầu tiên bằng java 
 public class run {
     public static Scanner sc = new Scanner(System.in);// bien toan cuc
     public static ArrayList<Student> sv = new ArrayList<>();
